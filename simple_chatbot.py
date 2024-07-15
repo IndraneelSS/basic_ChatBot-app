@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Set up the Streamlit chat interface
-st.title("Simple Chatbot")
+st.title(" Neel-Chatbot")
 
 # Display chat messages from the user and the bot
 if "messages" not in st.session_state:
